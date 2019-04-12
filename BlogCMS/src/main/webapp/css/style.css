@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 30, 2018, 4:52:21 PM
+    Author     : Brandon Mathura
+*/
+
+html {
+    background-color: white;
+    font-family: 'Calibri', sans-serif;
+}
+body {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.account {
+    text-align: center;
+}
+.account-float {
+    text-align: right;
+}
+ul {
+    list-style: none;
+}
+li {
+    display: inline;
+    border-right: 1px solid #bbb;
+}
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a:hover {
+}
+.nav {
+    letter-spacing: 2px;
+    font-size: 20px;
+    background-color: black;
+}
+.icons {
+    text-align: center;
+    position:absolute;
+    bottom:5px;
+}
+.blog-container {
+    margin: 0 auto;
+}
+.blog-side {
+    
+    background-color: green;
+    
+}
+.blog-long-desc {
+    width: 78%;
+    background-color: #777;
+    text-align: center;
+    float: right;
+    border-style: solid;
+    border-width: medium;
+}
+
+.login-btn{
+    text-align:right;
+    background-color:pink;
+    font:black;
+}
+
+.sosa{
+    height:300px;
+    background-color:gray;
+    border:2px black dotted;
+    font:pink;
+}
